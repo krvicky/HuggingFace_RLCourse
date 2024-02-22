@@ -1,2 +1,2 @@
 # HuggingFace_RLCourse
-Repository of my colab notebooks from the HuggingFace Reinforcement Learning course
+This repository contains the colab notebooks that I used for the HuggingFace Deep Reinforcement Learning course
